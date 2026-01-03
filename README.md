@@ -1,5 +1,5 @@
 # Kamran Rouhani
-### Full-Stack Software Developer | Java, Spring Boot, Next.js, React
+### Full-Stack Software Engineer | Java, Spring Boot, Next.js, React
 📍 Germany
 
 ---
