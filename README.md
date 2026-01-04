@@ -29,4 +29,4 @@ Building web-based apps and websites.
 
 **Connect & Find Out More:**
 
-🔗 [LinkedIn](https://linkedin.com/in/comendrun) | 🌐 [Portfolio](https://comendrun.com/) | 📧 [Email](mailto:info@comendrun.com)
+🔗 [LinkedIn](https://linkedin.com/in/kamranrouhani) | 🌐 [Portfolio](https://kamranrouhani.de/) | 📧 [Email](mailto:kamran.rouhani@outlook.com)
